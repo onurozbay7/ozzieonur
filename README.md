@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Finance application with Laravel](https://github.com/ozzieonur/finance-application-laravel)
 
