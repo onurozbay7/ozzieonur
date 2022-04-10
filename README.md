@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 reach me: **ayon1524@gmail.com**
+- 📫 reach me: [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayon1524@gmail.com)](mailto:ayon1524@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
