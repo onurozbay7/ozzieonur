@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Finance application with Laravel](https://github.com/ozzieonur/finance-application-laravel)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** and **JQuery**
 
 - 📫 reach me: **ayon1524@gmail.com**
 
