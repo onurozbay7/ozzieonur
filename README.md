@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
-- 🔭 I’m currently working on [Finance application with Laravel](https://github.com/ozzieonur/finance-application-laravel)
+- 🔭 I’m currently working on [MobileHairdressingApp](https://github.com/ozzieonur/MobileHairdresserApp-Flutter)
 
-- 🌱 I’m currently learning **Laravel** and **JQuery**
+- 🌱 I’m currently learning **Laravel RestfulAPI** and **Flutter**
 
 - 📫 reach me: **ayon1524@gmail.com**
 
