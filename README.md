@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [MobileHairdressingApp](https://github.com/ozzieonur/MobileHairdresserApp-Flutter)
 
-- 🌱 I’m currently learning **Laravel RestfulAPI** and **Flutter**
+- 🌱 I’m currently learning **Java Spring** and **Spring Boot**
 
 - 📫 reach me: **ayon1524@gmail.com**
 
