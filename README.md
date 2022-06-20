@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
-- 🔭 I’m currently working on [MobileHairdressingApp](https://github.com/ozzieonur/MobileHairdresserApp-Flutter)
+- 🔭 I’m currently working on [Java Spring Projects](https://github.com/ozzieonur/JavaSpringBootcamp)
 
 - 🌱 I’m currently learning **Java Spring** and **Spring Boot**
 
