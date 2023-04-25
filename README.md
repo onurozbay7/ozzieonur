@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Java Spring Projects](https://github.com/ozzieonur/JavaSpringBootcamp)
 
-- 🌱 I’m currently learning **Java Spring** and **Spring Boot**
+- 🌱 I’m currently working on **Java Spring** and **Spring Boot**
 
 - 📫 reach me: **ayon1524@gmail.com**
 
