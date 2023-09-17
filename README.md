@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
-- 🔭 I’m currently working on [Java Spring Projects](https://github.com/ozzieonur/JavaSpringBootcamp)
-
-- 🌱 I’m currently working on **Java Spring** and **Spring Boot**
+- 🔭 I’m currently working in **@TurkiyeSigorta**
 
 - 📫 reach me: **ayon1524@gmail.com**
 
